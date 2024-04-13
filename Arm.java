@@ -53,3 +53,14 @@ class AngleCalculator {
         return angle;
     }
 }
+
+
+
+
+
+
+
+//declaring a function for rotation
+//rotating the arm to set positions using the buttons on the controllers
+//manual mode in case of failure or optimization (Controlled by codriver)
+//making a function to get position. This is going to give the claw the values
